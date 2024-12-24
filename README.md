@@ -1,8 +1,11 @@
 Hola Amigos,
-The questions in the repositiory are few basic questions that can help you kickstart your coding career.All the code are written in C language in the .c files.In addition a detail view of the logic in the form of flow charts is also provided in the .pdf files do refer for better understanding.
 
-Practicing sites:
-1. https://www.geeksforgeeks.org/ ->Practice(All DSA Problems)
-2. https://www.hackerrank.com/
+The repository contains a selection of fundamental questions designed to help you kickstart your coding career. All the code is written in C language and can be found in the .c files. Additionally, detailed logic explanations are provided in the form of flowcharts within the .pdf files for better understanding.
 
-All the best!!
+Recommended Practice Sites:
+
+GeeksforGeeks - Practice a wide range of Data Structures and Algorithms problems.
+HackerRank - Enhance your coding skills with various challenges.
+Best of luck on your coding journey! 🚀
+
+Feel free to ask if you need any further assistance or have any questions!
